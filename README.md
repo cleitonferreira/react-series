@@ -1,2 +1,3 @@
-# react-series
-Estrutura básica para a série de vídeos do canal V++ sobre ReactJS
+# React Series
+Este pacote contém os arquivos básicos para iniciar as vídeo aulas
+de React do [Canal V++](http://kodezilla.teachable.com/courses).
